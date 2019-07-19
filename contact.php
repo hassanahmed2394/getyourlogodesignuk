@@ -89,7 +89,7 @@ include_once($header);
           <div class="infopart">
             <div class="chunk">
               <h3>Headquarters</h3>
-              <p>One gateway center, Newark, New Jersey, USA </p>
+              <p>32 London Bridge St, London SE1 9SG, UK </p>
             </div>
             <div class="chunk">
               <h3>Phone</h3>

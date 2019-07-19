@@ -39,7 +39,7 @@
                      </div>
                       <div class="payment social-icons">
                         <h4>Address</h4>
-                        <p style="color: white;">One gateway center, Newark, New Jersey, USA</p>
+                        <p style="color: white;">32 London Bridge St, London SE1 9SG, UK</p>
                      </div>
                   </div>
                </div>

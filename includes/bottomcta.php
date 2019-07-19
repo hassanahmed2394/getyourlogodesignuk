@@ -22,7 +22,7 @@
                 <span class="icon-location"></span>
               </div>
               <div class="textpart">
-                <p>One gateway center, Newark, New Jersey, USA </p>
+                <p>32 London Bridge St, London SE1 9SG, UK </p>
               </div>
             </div>
           </li>
