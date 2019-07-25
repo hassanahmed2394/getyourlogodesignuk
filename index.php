@@ -162,7 +162,7 @@ include($header);
         <video class="mainvideo" autoplay="" loop="" muted="" playsinline="" preload="metadata"> 
         <source src="assets/videos/animated-explainer-video.mp4" type="video/mp4"> 
          Your browser does not support the video tag. </video>
-      <div class="home-banner d-flex">
+       <div class="home-banner d-flex vd1">
         <div class="container align-self-center">
           <div class="row">
             <div class=" col-lg-5">

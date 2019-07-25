@@ -336,7 +336,8 @@ $('[data-fancybox="video-file"]').fancybox({
 ////// fancybox end
 
 // intel Tel Input
-let ip;
+let ip; 
+let ip_value;
  $("#phone-country,#phone-coun,#pro-phone,.phone-number").intlTelInput({
      
       // allowDropdown: false,
@@ -345,26 +346,15 @@ let ip;
       // dropdownContainer: "body",
       // excludeCountries: ["us"],
       // formatOnDisplay: false,
-   geoIpLookup: function(callback) {
-  $.ajax({
-      url: 'https://telize-v1.p.mashape.com/geoip',
-      type: 'GET',
-      data: {},
-      dataType: 'json',
-      success: function (data) {
-        var countryCode = getCountryCode;
-        
-        callback(countryCode);
-        ip=getip;
-      },
-      error: function (err) {
-        //alert("")
-      },
-      beforeSend: function (xhr) {
-        xhr.setRequestHeader("X-Mashape-Authorization", "qKsg8tYMdTmshjZ0eSZznAWBhwOFp1huvy7jsnNg3rhw4x8SGD"); // Enter here your Mashape key
-      }
-    }); 
-     },
+    geoIpLookup: function(callback) {
+            $.get('https://ipinfo.io', function() {}, "jsonp").always(function(resp) {
+              var countryCode = (resp && resp.country) ? resp.country : "";
+              callback(countryCode);
+              ip=resp.ip;
+            
+              
+            });
+          },
        initialCountry: "auto",
        nationalMode: true,
        separateDialCode: true,
@@ -378,11 +368,12 @@ let ip;
 
 setTimeout(function(){
     console.log(ip);
+    
     $('input[name="pc"]').val($('.selected-dial-code').text());
-    $('input[name="cip"]').val(ip);
+   $('input[name="cip"]').val(ip);
+    console.log(ip);
     $('input[name="ctry"]').val( $('.country-list .country.active .country-name').text());
 }, 3000);
-
 
 $('body').delegate('.country','click',function(){
 $('input[name="pc"]').val($(this).find('.dial-code').text());

@@ -38,11 +38,11 @@ $subscriber_email_data = file_get_contents('https://getyourlogodesign.co.uk/emai
 
 $body .= "Name: ".$_REQUEST['Name']." \n";
 $body .= "Email: ".$_REQUEST['Email']." \n";
-// $body .= "Country Code: ".$_REQUEST['pc']." \n";
-// $body .= "Country: ".$_REQUEST['ctry']." \n";
+$body .= "Country Code: ".$_REQUEST['pc']." \n";
+$body .= "Country: ".$_REQUEST['ctry']." \n";
 $body .= "Number: ".$_REQUEST['Number']." \n";
 $body .= "Page URL: ".$_REQUEST['locationURL']." \n";
-// $body .= "Visitor IP: ".$_REQUEST['cip']." \n";
+$body .= "Visitor IP: ".$_REQUEST['cip']." \n";
 
 $body .= "Page: ".$ebpage." \n";
 

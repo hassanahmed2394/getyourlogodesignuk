@@ -37,7 +37,7 @@
             
             <li><a href="tel:<?php echo $number_val; ?>"><?php echo $number_text; ?></a></li>
             <li><a href="mailto:support@getyourlogodesign.com">support@getyourlogodesign.com</a></li>
-            <li><a class="address">32 London Bridge St, London SE1 9SG, UK </a></li>
+            <li><a class="address">One gateway center, Newark, New Jersey, USA </a></li>
             
             
             

@@ -73,8 +73,21 @@ include_once($header);
     </div>
   </div>
 </section>
-
 <section class="maparea">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+          
+          <?php
+    $bannerform = $_SERVER['HTTP_HOST']; 
+    $bannerform = $srcurl."contactfrm.php"; 
+    include($bannerform); 
+    ?>
+          </div>
+          </div>
+          </div>
+          </section>
+<section class="maparea color-f9">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
