@@ -1,4 +1,4 @@
-<?php require_once('nitropack_include.php'); ?>
+
 
 <!doctype html>
 <html lang="en">
@@ -555,7 +555,7 @@ include($cta);
 
           <div id="logod" class="tab-pane active">
             <?php
-            $packages = $_SERVER['HTTP_HOST']; 
+            $packages = $_SERVER['HTTP_HOST'];  
             $packages = $srcurl."packages-logo.php"; 
             include($packages); 
             ?>

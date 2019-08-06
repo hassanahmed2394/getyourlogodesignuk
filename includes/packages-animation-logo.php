@@ -7,10 +7,11 @@
     <div class="hrline"></div>
     <!-- <h3>Payable Amount</h3> -->
     <ul class="ticklist2 list-scroll">
-      <li>1 Logo Concept</li>
-      <li>By 1 Logo Designer</li>
-      <li>4 Revisions </li>
-      <li>24 - 48 Hours Turn Around Time</li>
+    <li>1 Logo Concept</li>
+	<li>By 1 Logo Designer</li>
+	<li>1 Revisions (Additional £49)</li>
+	<li>Motion Graphics</li>
+	<li>24 - 48 Hours Turn Around Time</li>
        <li class="heading">Free:</li>
       <li>Color Options</li>
       <li>Final Files  (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff) </li>
@@ -39,11 +40,11 @@
     <div class="hrline"></div>
     <!-- <h3>Payable Amount</h3> -->
     <ul class="ticklist2 list-scroll">
-        <li>2 Logo Concept</li>
-        <li>By 2 Logo Designer</li>
-        <li>4 Revisions </li>
-        <li>Motion Graphics</li>
-        <li>24 - 48 Hours Turn Around Time</li>
+    <li>2 Logo Concept</li>
+	<li>By 2 Logo Designer</li>
+	<li>2 Revisions (Additional £49)</li>
+	<li>Motion Graphics</li>
+	<li>24 - 48 Hours Turn Around Time</li>
        <li class="heading">Free:</li>
       <li>Color Options</li>
       <li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
@@ -74,25 +75,27 @@
     <div class="hrline"></div>
     <!-- <h3>Payable Amount</h3> -->
     <ul class="ticklist2 list-scroll">
-      <li>3 Logo Concept</li>
-      <li>By 3 Logo Designer</li>
-      <li>Unlimited Revisions</li>
-      <li>Motion Graphics</li>
-      <li>Sound Effects</li>
-      <li>3D Logo Animation</li>
+    <li>3 Logo Concept</li>
+	<li>By 3 Logo Designer</li>
+	<li>Unlimited Revisions</li>
+	<li>Motion Graphics</li>
+	<li>Sound Effects</li>
+	<li>3D Logo Animation</li>
+	<li>24 - 48 Hours Turn Around Time</li>
       <li class="heading">FREE</li>
       <li>Greyscale Format</li>
       <li>Color Options</li>
       <li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
       <li>Icon</li>
       <li class="heading">FREE</li>
-       <li>100% Custom Artwork (No Template)</li>
-      <li>100% Ownership Rights</li>
-      <li>100% Money Back Guarantee</li>
-      <li>100% Real Account Manager (No Bots)</li>
-      <li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
+      <li>100% Custom Artwork (No Template)</li>
+	<li>100% Ownership Rights</li>
+	<li>100% Money Back Guarantee</li>
+	<li>100% Real Account Manager (No Bots)</li>
+	<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
 
       
+    </ul>
     </ul>
     
     <div class="price-btnwrap">
@@ -110,12 +113,13 @@
     <div class="hrline"></div>
     <!-- <h3>Payable Amount</h3> -->
     <ul class="ticklist2 list-scroll">
-      <li>3 Logo Concept</li>
-      <li>By 3 Logo Designer</li>
-      <li>Unlimited Revisions</li>
-      <li>Motion Graphics</li>
-      <li>Sound Effects</li>
-      <li>3D Logo Animation</li>
+    <li>4 Logo Concept</li>
+	<li>By 4 Logo Designer</li>
+	<li>Unlimited Revisions/Redraws</li>
+	<li>Motion Graphics</li>
+	<li>Sound Effects</li>
+	<li>3D Logo Animation</li>
+	<li>24 - 48 Hours Turn Around Time</li>
       <li class="heading">FREE</li>
       <li>Color Options</li>
       <li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>

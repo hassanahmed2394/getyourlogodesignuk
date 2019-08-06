@@ -1,4 +1,4 @@
- onclick="setButtonURL();" target="_self"<!doctype html>
+onclick="setButtonURL();" target="_self"<!doctype html>
 <html lang="en">
 <head>
 <title>Logo Design Starts With £149.00  - Logo Design | Get Your Logo Design</title>
@@ -41,7 +41,7 @@ include($header);
 
 <div class="container">
    <div class="col-md-12">
-        <h2 class="myheading">Starter Website Package</h2>
+        <h2 class="myheading">Startup Website Package</h2>
 
         <p class="mytext">Suitable for low level startups and brand revamps for companies.</p>
       </div>
@@ -50,8 +50,8 @@ include($header);
   <div class="row">
     <div class="col-lg-4 col-md-4 col-sm-4">
       <div class="subs-pac bronze ">
-          <h3>Starter Website <br/>Package</h3>
-          <h6><span class="old">£298.00</span>£149.00       <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for low level startups and brand revamps for companies.</span></h6>
+          <h3>Startup Website <br/>Package</h3>
+          <h6><span class="old">£788.00</span> £394.00       <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for low level startups and brand revamps for companies.</span></h6>
           
         <a href="<?php echo $path;?>order?pack=11" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
@@ -69,12 +69,26 @@ include($header);
       <div class="sub-list ">
           <div class="table-packages bronze">
             <div class="head">
-              <h5>Starter Website Package</h5>
+              <h5>Startup  Website Package</h5>
               <!-- <h6><b>$</b><span>1,600.00</span> only</h6> -->
             </div>
             <div class="body">
               <ul class="subscription-list">
-                            <li><h6>2 Pages</h6> <span class="tick"></span></li>
+              <li><h6>5 Stock Photos</h6> <span class="tick"></span></li>
+                      <li><h6>5 Page Website</h6> <span class="tick"></span></li>
+                      <li><h6>3 Banner Design</h6> <span class="tick"></span></li>
+                      <li><h6>1 jQuery Slider Banner</h6> <span class="tick"></span></li>
+                      <li><h6>FREE Google Friendly Sitemap</h6> <span class="tick"></span></li>
+                      <li><h6>Complete W3C Certified HTML</h6> <span class="tick"></span></li>
+                      <li><h6>48 to 72 hours TAT</h6> <span class="tick"></span></li>
+                      <li><h6>100% Satisfaction Guarantee</h6> <span class="tick"></span></li>
+                      <li><h6>100% Unique Design Guarantee</h6> <span class="tick"></span></li>
+                      <li><h6>100% Money Back Guarantee *</h6> <span class="tick"></span></li>
+                      <li><h6>Mobile Responsive will be Additional £200*</h6> <span class="tick"></span></li>
+                      <li><h6>CMS will be Additional $250*</h6> <span class="tick"></span></li>
+
+
+                            <!-- <li><h6>2 Pages</h6> <span class="tick"></span></li>
       <li><h6>2 Stock Images</h6> <span class="tick"></span></li>
       <li><h6>Image/Video Slider</h6> <span class="tick"></span></li>
       <li><h6>Enquiry Form</h6> <span class="tick"></span></li>
@@ -87,7 +101,7 @@ include($header);
       <li><h6>Site Backup &amp; Security</h6> <span class="tick"></span></li>
       <li><h6>Website Training</h6> <span class="tick"></span></li>
       <li><h6>Money Back Guarantee</h6> <span class="tick"></span></li>
-      <li><h6>After Sales Support</h6> <span class="tick"></span></li>
+      <li><h6>After Sales Support</h6> <span class="tick"></span></li> -->
               </ul>
             </div>
           </div>

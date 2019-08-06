@@ -74,26 +74,29 @@ include($header);
             </div>
             <div class="body">
               <ul class="subscription-list">
-      <li><h6>5 Logo Concepts</h6> <span class="tick"></span</li>
-      <li><h6>By 5 Logo Designers</h6> <span class="tick"></span</li>
-      <li><h6>8 Revisions </h6> <span class="tick"></span</li>
-      <li><h6>24 - 48 Hours Turn Around Time</h6> <span class="tick"></span</li>
-      <li><h6>Stationery Design (Business Card, Letterhead, Invoice)</h6> <span class="tick"></span</li>
-        <li><h6>Social Media Design (Facebook, Twitter, Youtube, Instagram)</h6> <span class="tick"></span</li>
-      <li><h6>Email Signature</h6> <span class="tick"></span</li>
+      <li><h6>Unlimited Logo Concepts</h6> <span class="tick"></span></li>
+      <li><h6>By Industry Specific Designers</h6> <span class="tick"></span></li>
+      <li><h6>Unlimited Revisions </h6> <span class="tick"></span></li>
+      <li><h6>24 - 48 Hours Turn Around Time</h6> <span class="tick"></span></li>
+      <li><h6>Stationery Design (Business Card, Letterhead, Invoice )</h6> <span class="tick"></span></li>
+        <li><h6>Social Media Design (Facebook, Twitter, Youtube, Instagram)</h6> <span class="tick"></span></li>
+      <li><h6>Email Signature</h6> <span class="tick"></span></li>
       <li class="heading">FREE</li>
-      <li><h6>Greyscale Format</h6> <span class="tick"></span</li>
-      <li><h6>Color Options</h6> <span class="tick"></span</li>
-      <li><h6>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</h6> <span class="tick"></span</li>
-      <li><h6>Icon</h6> <span class="tick"></span</li>
+      <li><h6>Greyscale Format</h6> <span class="tick"></span></li>
+      <li><h6>Color Options</h6> <span class="tick"></span></li>
+      <li><h6>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</h6> <span class="tick"></span></li>
+      <li><h6>Icon</h6> <span class="tick"></span></li>
        <li class="heading">FEATURES</li>
-      <li><h6>100% Real Account Manager (No Bots)</h6> <span class="tick"></span</li>
-
-      <li><h6>100% Approval Assurance</h6> <span class="tick"></span</li>
-      <li><h6>100% Ownership Rights </h6> <span class="tick"></span>  </li>  
-      <li><h6>100% Money Back Guarantee</h6> <span class="tick"></span</li>
-      <li><h6>100% Custom Designs (No Template)</h6> <span class="tick"></span</li>
-      <li><h6>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</h6> <span class="tick"></span</li>
+       <li><h6>100% Custom Artwork (No Template)
+</h6> <span class="tick"> </span></li>
+      <li><h6>100% Ownership Rights
+</h6> <span class="tick"> </span></li>
+      <li><h6>100% Money Back Guarantee
+</h6> <span class="tick"> </span></li>
+      <li><h6>100% Real Account Manager (No Bots)
+</h6> <span class="tick"> </span></li>
+      <li><h6>24/7 Support (Email, Chat, Call, SMS, Whatsapp)
+</h6> <span class="tick"> </span></li>
 
                 <!-- <li>
                   <h6>Complete W3C Certified HTML</h6>

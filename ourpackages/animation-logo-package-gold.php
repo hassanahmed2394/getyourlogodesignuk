@@ -51,7 +51,7 @@ include($header);
     <div class="col-lg-4 col-md-4 col-sm-4">
       <div class="subs-pac bronze ">
           <h3>Animated Gold logo <br/>Package</h3>
-          <h6><span class="old">£449</span> £249.0   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for existing companies</span></h6>
+          <h6><span class="old">£450</span>£249.0   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for existing companies</span></h6>
           
         <a href="<?php echo $path;?>order?pack=61" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
@@ -135,7 +135,7 @@ include($header);
 <li><h6>Icon</h6> <span class="tick"></span></li>
 
                  <li class="heading">FEATURES</li>
-
+  <li><h6>100% Custom Artwork (No Template)</h6> <span class="tick"></span></li>
                 <li>
                   <h6>100% Ownership Rights</h6>
                   <span class="tick"></span>
@@ -147,7 +147,7 @@ include($header);
                 </li>
 
                 <li>
-                  <h6>100% Unique Design Guarantee</h6>
+                  <h6>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</h6>
                   <span class="tick"></span>
                 </li>
 

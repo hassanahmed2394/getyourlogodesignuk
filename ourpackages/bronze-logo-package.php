@@ -51,7 +51,7 @@ include($header);
   	<div class="col-lg-4 col-md-4 col-sm-4">
   		<div class="subs-pac bronze ">
           <h3>Bronze logo <br/>Package</h3>
-          <h6><span class="old">£58.00</span> £39.00    <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for low-level startups and organizations.</span></h6>
+          <h6><span class="old">£58.00</span>£39.00    <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for low-level startups and organizations.</span></h6>
           
         <a href="<?php echo $path;?>order?pack=42" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
@@ -74,9 +74,9 @@ include($header);
             </div>
             <div class="body">
               <ul class="subscription-list">
-      <li><h6>2 Logo Concepts</h6><span class="tick"></span></li>
-      <li><h6>2 Logo Designers</h6><span class="tick"></span></li>
-      <li><h6>3 Revisions </h6><span class="tick"></span></li>
+      <li><h6>4 Logo Concepts</h6><span class="tick"></span></li>
+      <li><h6>By 2 Logo Designers</h6><span class="tick"></span></li>
+      <li><h6>4 Revisions </h6><span class="tick"></span></li>
       <li><h6>24 - 48 Hours Turn Around Time</h6><span class="tick"></span></li>
        <li class="heading">Free:</li>
       <li><h6>Greyscale Format</h6><span class="tick"></span></li>

@@ -39,22 +39,21 @@
     <div class="hrline"></div>
     <!-- <h3>Payable Amount</h3> -->
     <ul class="ticklist2 list-scroll">
-      <li>2 Logo Ideas</li>
-      <li>2 Logo Designers</li>
-      <li>3 Revisions </li>
-      <li>24 - 48 Hours Turn Around Time</li>
+    <li>4 Logo Concepts</li>
+	<li>By 2 Logo Designers</li>
+	<li>4 Revisions</li>
+	<li>24 - 48 Hours Turn Around Time</li>
        <li class="heading">Free:</li>
-      <li>Color Options</li>
-      <li>Greyscale Format</li>
-      <li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
-      <li>Icon</li>
+       <li>Color Options</li>
+	<li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
+	<li>Greyscale Format</li>
+	<li>Icon</li>
       <li class="heading">FEATURES</li>
-      <li>100% Real Account Manager (No Bots)</li>
-      <li>100% Approval Assurance</li>
-      <li>100% Ownership Rights</li>
-      <li>100% Money Back Guarantee</li>
-      <li>100% Custom Designs (No Template)</li>
-      <li>24/7 After Sales Support (Email, Chat, Call, SMS, Whatsapp)</li>
+      <li>100% Custom Artwork (No Template)</li>
+	<li>100% Ownership Rights</li>
+	<li>100% Money Back Guarantee</li>
+	<li>100% Real Account Manager (No Bots)</li>
+	<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
       
     </ul>
     
@@ -72,11 +71,11 @@
     <div class="hrline"></div>
     <!-- <h3>Payable Amount</h3> -->
     <ul class="ticklist2 list-scroll">
-      <li>3 Logo Concepts</li>
-      <li>By 3 Logo Designers</li>
-      <li>4 Revisions </li>
-         <li>Stationery Design (Business Card)</li>
-      <li>24 - 48 Hours Turn Around Time</li>
+    <li>6 Logo Concepts</li>
+	<li>By 3 Logo Designers</li>
+	<li>Unlimited Revisions</li>
+	<li>24 - 48 Hours Turn Around Time</li>
+	<li>Stationery Design (Business Card)</li>
       <li class="heading">FREE</li>
       <li>Greyscale Format</li>
       <li>Color Options</li>
@@ -107,11 +106,11 @@
     <p>Suitable for potential mid level startups and brand revamps for existing companies</p>
     <div class="hrline"></div>
     <ul class="ticklist2 list-scroll">
-      <li>4 Logo Concepts</li>
-      <li>By 4 Logo Designers</li>
-      <li>6 Revisions </li>
-      <li>24 - 48 Hours Turn Around Time</li>
-      <li>Stationery Design (Business Card)</li>
+    <li>Unlimited Logo Concepts </li>
+	<li>By Award Wining Designers</li>
+	<li>Unlimited Revisions</li>
+	<li>24 - 48 Hours Turn Around Time</li>
+	<li>Stationery Design (Business Card, Letterhead, Invoice )</li>
       <li class="heading">FREE</li>
       <li>Greyscale Format</li>
       <li>Color Options</li>
@@ -141,25 +140,24 @@
     <p>Suitable for potential high level startups and brand revamps for existing companies</p>
     <div class="hrline"></div>
     <ul class="ticklist2 list-scroll">
-      <li>5 Logo Concepts</li>
-      <li>By 5 Logo Designers</li>
-      <li>8 Revisions </li>
-      <li>24 - 48 Hours Turn Around Time</li>
-      <li>Stationery Design (Business Card, Letterhead,Invoice)</li>
-      <li>  Social Media Design (Facebook, Twitter, Youtube, Instagram)</li>
-      <li>Email Signature</li>
+    <li>Unlimited Logo Concepts</li>
+	<li>By Industry Specific Designers</li>
+	<li>Unlimited Revisions</li>
+	<li>24 - 48 Hours Turn Around Time</li>
+	<li>Stationery Design (Business Card, Letterhead, Invoice )</li>
+	<li>Social Media Design (Facebook, Twitter, Youtube, Instagram)</li>
+	<li>Email Signature</li>
       <li class="heading">FREE</li>
-      <li>Greyscale Format</li>
       <li>Color Options</li>
-      <li>  Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
-      <li>Icon</li>
+	<li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
+	<li>Greyscale Format</li>
+	<li>Icon</li>
        <li class="heading">FEATURES</li>
-      <li>100% Real Account Manager (No Bots)</li>
-      <li>100% Approval Assurance</li>
-      <li>100% Ownership Rights</li>    
-      <li>100% Money Back Guarantee</li>
-      <li>100% Custom Designs (No Template)</li>
-      <li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
+       <li>100% Custom Artwork (No Template)</li>
+	<li>100% Ownership Rights</li>
+	<li>100% Money Back Guarantee</li>
+	<li>100% Real Account Manager (No Bots)</li>
+	<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
       
     </ul>
     <div class="price-btnwrap">
@@ -174,27 +172,26 @@
     <p>Suitable for high level startups and brand revamps for existing companies</p>
     <div class="hrline"></div>
     <ul class="ticklist2 list-scroll">
-      <li>6 Logo Concepts</li>
-      <li>By 6 Logo Designers</li>
-      <li>10 Revisions </li>
-      <li>24 - 48 Hours Turn Around Time</li>
-      <li>  Stationery Design (Business Card, Letterhead, Invoice, Envelop)</li>
-      <li>Social Media Designs (Facebook, Twitter, Youtube, Instagram)</li>
-      <li>  2 Sided Flyer (OR) Bi-Fold Brochure Design</li>
-      <li>Email Signature</li>
+    <li>Unlimited Logo Concepts</li>
+	<li>By Industry Specific Designers</li>
+	<li>Unlimited Revisions</li>
+	<li>24 - 48 Hours Turn Around Time</li>
+	<li>Stationery Design (Business Card, Letterhead, Invoice, Envelop)</li>
+	<li>Social Media Designs (Facebook, Twitter, Youtube, Instagram)</li>
+	<li>2 Sided Flyer (OR) Bi-Fold Brochure Design</li>
+	<li>Email Signature</li>
       <li class="heading">FREE</li>
-      <li>Greyscale Format</li>
       <li>Color Options</li>
-      <li>  Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
-      <li>Icon</li>
+	<li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
+	<li>Greyscale Format</li>
+	<li>Icon</li>
        <li class="heading">FEATURES</li>
-       <li>100% Real Account Manager (No Bots)</li>
-       <li>100% Approval Assurance</li>
-       <li>100% Ownership Rights</li>
-        <li>100% Money Back Guarantee</li>
-         <li>100% Custom Designs (No Template)</li>
-         <li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
-    </ul>
+       <li>100% Custom Artwork (No Template)</li>
+	<li>100% Ownership Rights</li>
+	<li>100% Money Back Guarantee</li>
+	<li>100% Real Account Manager (No Bots)</li>
+	<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
+    </ul> 
     <div class="price-btnwrap">
       <a href="<?php echo $path;?>ourpackages/diamond-logo-package" class="vdetails">View Details</a>
       <a href="<?php echo $path;?>order?pack=47" class="btn-packages">Place Your Order</a>
@@ -207,33 +204,32 @@
     <p>Suitable for superior level startups and brand revamps for existing companies</p>
     <div class="hrline"></div>
     <ul class="ticklist2 list-scroll">
-       <li> 8 Logo Concepts</li>
-<li>  By 8 Logo Designers</li>
-    <li>  12 Revisions </li>
-      <li>24 - 48 Hours Turn Around Time</li>
-      <li>Stationery Design (Business Card, Letterhead, Envelope, Invoice)</li>
-      <li>Social Media Designs (Facebook, Twitter, Youtube, Instagram)</li>
-        <li>  Double Side Flyer (OR) Tri-Fold Brochure Design</li>
-      <li>Email Signature</li>
+    <li>Unlimited Logo Concepts</li>
+	<li>By Industry Specific Designers</li>
+	<li>Unlimited Revisions</li>
+	<li>24 - 48 Hours Turn Around Time</li>
+	<li>Stationery Design (Business Card, Letterhead, Invoice, Envelop)</li>
+	<li>Social Media Designs (Facebook, Twitter, Youtube, Instagram)</li>
+	<li>Double Side Flyer (OR) Tri-Fold Brochure Design</li>
+	<li>Email Signature</li>
       <li class="heading">FREE</li>      
-      <li>Greyscale Format</li>
       <li>Color Options</li>
-      <li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
-      <li>Icon</li>
+	<li>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)</li>
+	<li>Greyscale Format</li>
+	<li>Icon</li>
       <li class="heading">FEATURES</li>
-      <li>100% Real Account Manager (No Bots)</li>
-      <li>100% Approval Assurance</li>
-      <li>100% Ownership Rights</li>
-      <li>100% Money Back Guarantee</li>
-       <li>100% Custom Designs (No Template)</li>
-        <li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
+      <li>100% Custom Artwork (No Template)</li>
+	<li>100% Ownership Rights</li>
+	<li>100% Money Back Guarantee</li>
+	<li>100% Real Account Manager (No Bots)</li>
+	<li>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</li>
     </ul>
     <div class="price-btnwrap">
       <a href="<?php echo $path;?>ourpackages/titanium-logo-package" class="vdetails">View Details</a>
       <a href="<?php echo $path;?>order?pack=48" class="btn-packages">Place Your Order</a>
     </div>
   </div>
-  <div class="smallbox">
+  <!-- <div class="smallbox">
     <h2>£299.00 <span><s>£438.00</s></span> </h2>
     <h4>Infinite  <br> Logo  Package</h4>
     <p>Suitable for superior level startups and brand revamps for existing companies</p>
@@ -267,7 +263,7 @@
       <a href="<?php echo $path;?>ourpackages/infinite-logo" class="vdetails">View Details</a>
       <a href="<?php echo $path;?>order?pack=49" class="btn-packages">Place Your Order</a>
     </div>
-  </div>
+  </div> -->
 </div>
 
  

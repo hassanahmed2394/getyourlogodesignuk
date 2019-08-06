@@ -1,7 +1,7 @@
 <div class="smallboxes packagesslider">
   
 <div class="smallbox">
-    <h2>£299.00 <span><s>£480.00</s></span> </h2>
+    <h2>£199.00 <span><s>£299.00</s></span> </h2>
     <h4>Mascot Bronze Logo<br> Package</h4>
     <p>Suitable for low-level startups and organizations.</p>
     <div class="hrline"></div>
@@ -9,8 +9,8 @@
     <ul class="ticklist2 list-scroll">
       <li>2 Logo Concept</li>
       <li>By 2 Logo Designer</li>
-      <li>4 Revisions </li>
-      <li>Motion Graphics</li>
+      <li>Unlimited Revisions</li>
+     
       <li>48 - 72 Hours Turn Around Time</li>
        <li class="heading">Free:</li>
       <li>Color Options</li>
@@ -34,7 +34,7 @@
 
   </div>
   <div class="smallbox">
-    <h2>£349.00 <span><s>£550.00</s></span> </h2>
+    <h2>£299.00  <span><s>£349.00</s></span> </h2>
     <h4>Mascot Silver Logo<br> Package</h4>
     <p>Suitable for low-level startups and organizations.</p>
     <div class="hrline"></div>
@@ -72,7 +72,7 @@
 
 <div class="smallbox">
          <p class="populartag">Best Seller</p>
-    <h2>£549.00 <span><s>£750.00</s></span> </h2> 
+    <h2>£499.00 <span><s>£549.00</s></span> </h2> 
 
     <h4>Mascot Gold Logo<br> Package</h4>
     <p>Suitable for mid level and brand revamps for existing companies</p>

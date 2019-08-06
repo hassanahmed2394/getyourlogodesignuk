@@ -3,12 +3,12 @@
           <div class="package-box text-center">
                          <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
                          <h4 class="category">Mascot Bronze Logo <br> Package</h4>
-                         <span class="actual-price packgePrice">£299.00 </span><span class="sale-price"> £480.00</span>
+                         <span class="actual-price packgePrice">£199.00 </span><span class="sale-price"> £299.00</span>
                          <div class="scroll">
                             <ul style="margin-bottom: 18px;">
                               <li>2 Logo Concept</li>
                               <li>By 2 Logo Designer</li>
-                              <li>4 Revisions </li>
+                              <li>Unlimited Revisions </li>
                               <li>Motion Graphics</li>
                               <li>48 - 72 Hours Turn Around Time</li>
                             </ul>
@@ -52,7 +52,7 @@
           <div class="package-box text-center">
                          <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
                          <h4 class="category">Mascot Silver Logo <br> Package</h4>
-                         <span class="actual-price packgePrice">£349.00 </span><span class="sale-price">£550.00</span>
+                         <span class="actual-price packgePrice">£299.00 </span><span class="sale-price">£349.00</span>
                          <div class="scroll">
                             <ul style="margin-bottom: 18px;">
                              <li>3 Logo Concept</li>
@@ -104,7 +104,7 @@
           <div class="package-box text-center seller">
                          <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
                          <h4 class="category">Mascot Gold Logo <br> Package</h4>
-                         <span class="actual-price packgePrice">£549.00 </span><span class="sale-price"> £750.00</span>
+                         <span class="actual-price packgePrice">£499.00 </span><span class="sale-price"> £549.00</span>
                          <div class="scroll">
                             <ul style="margin-bottom: 18px;">
                              <li>4 Logo Concept</li>

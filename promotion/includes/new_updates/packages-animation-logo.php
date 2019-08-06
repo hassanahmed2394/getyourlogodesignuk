@@ -7,10 +7,11 @@
      <span class="actual-price packgePrice"> £149.00</span><span class="sale-price">£280.00</span>
      <div class="scroll">
       <ul style="margin-bottom: 18px;">
-        <li>1 Logo Concept</li>
-      <li>By 1 Logo Designer</li>
-      <li>4 Revisions </li>
-      <li>24 - 48 Hours Turn Around Time</li>
+      <li>1 Logo Concept</li>
+	<li>By 1 Logo Designer</li>
+	<li>1 Revisions (Additional £49)</li>
+	<li>Motion Graphics</li>
+	<li>24 - 48 Hours Turn Around Time</li>
      </ul>
      <ul class="mt-0 border-new" style="border-top: 2px solid #24d193;margin: 20px 0px;">
        <li style="color: #f93221;font-weight: bold;margin-top: 10px;">Free</li>
@@ -57,7 +58,7 @@
     <ul style="margin-bottom: 18px;">
       <li>2 Logo Concept</li>
       <li>By 2 Logo Designer</li>
-      <li>4 Revisions </li>
+      <li>2 Revisions (Additional £49)</li>
       <li>Motion Graphics</li>
       <li>24 - 48 Hours Turn Around Time</li>
     </ul>
@@ -106,10 +107,11 @@
     <ul style="margin-bottom: 18px;">
      <li>3 Logo Concept</li>
       <li>By 3 Logo Designer</li>
-      <li>Unlimited Revisions</li>
+      <li> <strong> Unlimited Revisions </strong></li>
       <li>Motion Graphics</li>
       <li>Sound Effects</li>
       <li>3D Logo Animation</li>
+      <li>24 - 48 Hours Turn Around Time</li>
     </ul>
     <ul class="mt-0 border-new" style="border-top: 2px solid #24d193;margin: 20px 0px;">
      <li style="color: #f93221;font-weight: bold;margin-top: 10px;">Free</li>
@@ -156,7 +158,7 @@
     <ul style="margin-bottom: 18px;">
      <li>4 Logo Concept</li>
       <li>By 4 Logo Designer</li>
-      <li>Unlimited Revisions</li>
+      <li> <strong> Unlimited Revisions/Redraws</strong> </li>
       <li>Motion Graphics</li>
       <li>Sound Effects</li>
       <li>3D Logo Animation</li>

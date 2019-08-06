@@ -41,7 +41,7 @@ include($header);
 
 <div class="container">
    <div class="col-md-12">
-        <h2 class="myheading">Corporate Website Package</h2>
+        <h2 class="myheading">Buiness Website Package</h2>
 
         <p class="mytext">Suitable for potential hight level startups and brand revamps for companies.</p>
       </div>
@@ -50,10 +50,10 @@ include($header);
   <div class="row">
   	<div class="col-lg-4 col-md-4 col-sm-4">
   		<div class="subs-pac bronze ">
-          <h3>Corporate Website <br/>Package</h3>
-          <h6><span class="old">£4,788.00</span>£2,394 .00        <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential hight level startups and brand revamps for companies.</span></h6>
+          <h3>Corporate Buiness <br/>Package</h3>
+          <h6><span class="old"> £5,998.00</span>£2,999 .00        <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential hight level startups and brand revamps for companies.</span></h6>
           
-        <a href="<?php echo $path;?>order?pack=14" class="ordrrrr">Place Your Order</a>
+        <a href="<?php echo $path;?>order?pack=15" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
                     <div class="col-md-5 col-xs-6">
                           <a href="javascript:;" onclick="setButtonURL();" target="_self" class="chatbtn"><i class="fa fa-wechat"></i> Live Chat</a>
@@ -69,87 +69,83 @@ include($header);
   		<div class="sub-list ">
           <div class="table-packages bronze">
             <div class="head">
-              <h5>Corporate Website Package</h5>
+              <h5>Business Website Package</h5>
               <!-- <h6><b>$</b><span>1,600.00</span> only</h6> -->
             </div>
             <div class="body">
               <ul class="subscription-list">
-
-              <li><h6> 15 to 20 Pages Website </h6>
+              <li>15 Seconds 2D Explainer Video </h6>
                               <span class="tick"></span></li>
-                      <li> <h6>Custom Made, Interactive, Dynamic & High End Design </h6>
+                      <li>Voice - Over & Sound Effects </h6>
                               <span class="tick"></span></li>
-                      <li> <h6>Custom WP (or) Custom PHP Development </h6>
+                      <li>Professional Script Writing </h6>
                               <span class="tick"></span></li>
-                      <li> <h6>1 jQuery Slider Banner </h6>
+                      <li>Storyboard </h6>
                               <span class="tick"></span></li>
-                      <li> <h6>Up to 10 Custom Made Banner Designs </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>10 Stock Images </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Unlimited Revisions </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Special Hoover Effects </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Content Management System (CMS) </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Online Appointment/Scheduling/Online Ordering Integration (Optional) </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Online Payment Integration (Optional) </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Multi Lingual (Optional) </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Custom Dynamic Forms (Optional) </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Signup Area (For Newsletters, Offers etc.) </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Search Bar </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Live Feeds of Social Networks integration (Optional) </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Mobile Responsive </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>FREE 5 Years Domain Name </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Free Google Friendly Sitemap </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Search Engine Submission </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Complete W3C Certified HTML </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Industry Specified Team of Expert Designers and Developers </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Complete Deployment </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>Dedicated Accounts Manager </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>100% Ownership Rights </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>100% Satisfaction Guarantee </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>100% Unique Design Guarantee </h6>
-                              <span class="tick"></span></li>
-                      <li> <h6>100% Money Back Guarantee * </h6>
+                      <li>SEO Meta Tags </h6>
                               <span class="tick"></span></li>
 
-                          <li><h6>5 Pages</h6> <span class="tick"></span></li>
-        <li><h6>5 Stock Images</h6> <span class="tick"></span></li>
-        <li><h6>Image/Video Slider</h6> <span class="tick"></span></li>
-        <li><h6>Enquiry Form</h6> <span class="tick"></span></li>
-        <li><h6>Photo Gallery</h6> <span class="tick"></span></li>
-        <li><h6>Social Networks Integration</h6> <span class="tick"></span></li>
-        <li class="heading">FREE</li>
-        <li><h6>2 Logo Concepts</h6> <span class="tick"></span></li>
-         <li class="heading">Business Card Designs</li>
-        <li><h6>Domain &amp; Hosting</h6> <span class="tick"></span></li>
-        <li><h6>3 Email Addresses</h6> <span class="tick"></span></li>
-        <li><h6>Search Engine Submission</h6> <span class="tick"></span></li>
-         <li class="heading">FEATURES</li>
-        <li><h6>Shopping Cart Compatible</h6> <span class="tick"></span></li>
-        <li><h6>Site Backup &amp; Security</h6> <span class="tick"></span></li>
-        <li><h6>Website Training</h6> <span class="tick"></span></li>
-        <li><h6>Money Back Guarantee</h6> <span class="tick"></span></li>
-        <li><h6>After Sales Support</h6> <span class="tick"></span></li>
+
+                      <li>15 to 20 Pages Website </h6>
+                              <span class="tick"></span></li>
+                      <li>Custom Made, Interactive, Dynamic & High End Design </h6>
+                              <span class="tick"></span></li>
+                      <li>Custom WP (or) Custom PHP Development </h6>
+                              <span class="tick"></span></li>
+                      <li>1 jQuery Slider Banner </h6>
+                              <span class="tick"></span></li>
+                      <li>Up to 10 Custom Made Banner Designs </h6>
+                              <span class="tick"></span></li>
+                      <li>10 Stock Images </h6>
+                              <span class="tick"></span></li>
+                      <li>Unlimited Revisions </h6>
+                              <span class="tick"></span></li>
+                      <li>Special Hoover Effects </h6>
+                              <span class="tick"></span></li>
+                      <li>Content Management System (CMS) </h6>
+                              <span class="tick"></span></li>
+                      <li>Online Appointment/Scheduling/Online Ordering Integration (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li>Online Payment Integration (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li>Multi Lingual (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li>Custom Dynamic Forms (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li>Signup Area (For Newsletters, Offers etc.) </h6>
+                              <span class="tick"></span></li>
+                      <li>Search Bar </h6>
+                              <span class="tick"></span></li>
+                      <li>Live Feeds of Social Networks integration (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li>Mobile Responsive </h6>
+                              <span class="tick"></span></li>
+                      <li>FREE 5 Years Domain Name </h6>
+                              <span class="tick"></span></li>
+                      <li>Free Google Friendly Sitemap </h6>
+                              <span class="tick"></span></li>
+                      <li>Search Engine Submission </h6>
+                              <span class="tick"></span></li>
+                      <li>Complete W3C Certified HTML </h6>
+                              <span class="tick"></span></li>
+                      <li>Industry Specified Team of Expert Designers and Developers </h6>
+                              <span class="tick"></span></li>
+                      <li>Complete Deployment </h6>
+                              <span class="tick"></span></li>
+                      <li>Dedicated Accounts Manager </h6>
+                              <span class="tick"></span></li>
+                      <li>100% Ownership Rights </h6>
+                              <span class="tick"></span></li>
+                      <li>100% Satisfaction Guarantee </h6>
+                              <span class="tick"></span></li>
+                      <li>100% Unique Design Guarantee </h6>
+                              <span class="tick"></span></li>
+                      <li>100% Money Back Guarantee * </h6>
+                              <span class="tick"></span></li>
+
+
+             
+                          
               </ul>
             </div>
           </div>

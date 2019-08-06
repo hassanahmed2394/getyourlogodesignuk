@@ -85,7 +85,7 @@ include($header);
                 </li>
 
   <li>
-                  <h6>4 Revisions 
+                  <h6>1 Revisions (Additional $49)
 </h6>
                   <span class="tick"></span>
                 </li>
@@ -124,17 +124,17 @@ include($header);
                  <li class="heading">FEATURES</li>
 
                 <li>
+                  <h6>100% Custom Artwork (No Template)</h6>
+                  <span class="tick"></span>
+                </li>
+
+                <li>
+                  <h6>100% Approval Assurance</h6>
+                  <span class="tick"></span>
+                </li>
+
+                <li>
                   <h6>100% Ownership Rights</h6>
-                  <span class="tick"></span>
-                </li>
-
-                <li>
-                  <h6>100% Satisfaction Guarantee</h6>
-                  <span class="tick"></span>
-                </li>
-
-                <li>
-                  <h6>100% Unique Design Guarantee</h6>
                   <span class="tick"></span>
                 </li>
 
@@ -142,6 +142,15 @@ include($header);
                   <h6>100% Money Back Guarantee</h6>
                   <span class="tick"></span>
                 </li>
+                <li>
+                  <h6>100% Real Account Manager (No Bots)</h6>
+                  <span class="tick"></span>
+                </li>
+                <li>
+                <h6>
+                24/7 Support (Email, Chat, Call, SMS, Whatsapp)
+                <span class="tick"></span>
+                </h6></li>
               </ul>
             </div>
           </div>

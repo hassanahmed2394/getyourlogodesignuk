@@ -51,7 +51,7 @@ include($header);
   	<div class="col-lg-4 col-md-4 col-sm-4">
   		<div class="subs-pac bronze ">
           <h3>3D Gold logo <br/>Package</h3>
-          <h6><span class="old">£680.00</span> £399.00   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for existing companies</span></h6>
+          <h6><span class="old">£580.00</span> £299.00   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for existing companies</span></h6>
           
         <a href="<?php echo $path;?>order?pack=52" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
@@ -110,6 +110,8 @@ include($header);
 
                  <li class="heading">FEATURES</li>
 
+                 <li><h6>100% Custom Artwork (No Template)</h6>
+  <span class="tick"></span></li>
                 <li>
                   <h6>100% Ownership Rights</h6>
                   <span class="tick"></span>
@@ -121,7 +123,7 @@ include($header);
                 </li>
 
                 <li>
-                  <h6>100% Unique Design Guarantee</h6>
+                  <h6>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</h6>
                   <span class="tick"></span>
                 </li>
 
@@ -129,8 +131,6 @@ include($header);
                   <h6>100% Money Back Guarantee</h6>
                   <span class="tick"></span>
                 </li>
-                <li><h6>24/7 Support (Email, Chat, Call, SMS, Whatsapp)
-</h6> <span class="tick"></span></li>
               </ul>
             </div>
           </div>

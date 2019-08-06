@@ -74,9 +74,9 @@ include($header);
             </div>
             <div class="body">
               <ul class="subscription-list">
-      <li><h6>4 Logo Concepts</h6> <span class="tick"></span></li>
-      <li><h6>By 4 Logo Designers</h6> <span class="tick"></span></li>
-      <li><h6>6 Revisions</h6> <span class="tick"></span></li>
+      <li><h6>Unlimited Logo Concepts </h6> <span class="tick"></span></li>
+      <li><h6>By Award Wining Designers</h6> <span class="tick"></span></li>
+      <li><h6>Unlimited Revisions</h6> <span class="tick"></span></li>
       <li><h6>24 - 48 Hours Turn Around Time</h6> <span class="tick"></span></li>
       <li><h6>Stationery Design (Business Card, Letterhead, Invoice )</h6> <span class="tick"></span></li>
 

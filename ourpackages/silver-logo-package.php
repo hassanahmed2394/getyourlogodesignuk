@@ -51,7 +51,7 @@ include($header);
   	<div class="col-lg-4 col-md-4 col-sm-4">
   		<div class="subs-pac bronze ">
           <h3>Silver logo <br/>Package</h3>
-          <h6><span class="old">£98.00</span> £69.00   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for mid level and brand revamps for existing companies</span></h6>
+          <h6><span class="old">£98.00</span>£69.00   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for mid level and brand revamps for existing companies</span></h6>
           
         <a href="<?php echo $path;?>order?pack=44" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
@@ -74,22 +74,31 @@ include($header);
             </div>
             <div class="body">
               <ul class="subscription-list">
-      <li><h6>3 Logo Concepts<h6> <span class="tick"></span></li>
-      <li><h6>By 3 Logo Designers<h6> <span class="tick"></span></li>
-      <li><h6>4 Revisions <h6> <span class="tick"></span></li>
-      <li><h6>24 - 48 Hours Turn Around Time<h6> <span class="tick"></span></li>
+      <li><h6>6 Logo Concepts</h6> <span class="tick"></span></li>
+
+      <li><h6>By 3 Logo Designers</h6> <span class="tick"></span></li>
+      
+      <li><h6>Unlimited Revisions </h6> <span class="tick"></span></li>
+      
+      <li><h6>24 - 48 Hours Turn Around Time</h6> <span class="tick"></span></li>
+      
+      <li><h6>Stationery Design (Business Card)</h6> <span class="tick"></span></li>
+      
       <li class="heading">FREE</li>
-      <li><h6>Greyscale Format<h6> <span class="tick"></span></li>
-      <li><h6>Color Options<h6> <span class="tick"></span></li>
+      
+      <li><h6>Greyscale Format</h6> <span class="tick"></span></li>
+      
+      <li><h6>Color Options</h6> <span class="tick"></span></li>
+      
       <li><h6>Final Files (.AI, .PSD, .EPS, .JPEG, .SVG, .PDF, Tiff)<h6> <span class="tick"></span></li>
       <li><h6>Icon<h6> <span class="tick"></span></li>
         <li class="heading">Features</li>
-      <li><h6>100% Real Account Manager (No Bots)<h6> <span class="tick"></span></li>
-      <li><h6>100% Approval Assurance<h6> <span class="tick"></span></li>
-      <li><h6>100% Ownership Rights<h6> <span class="tick"></span></li>
-      <li><h6>100% Money Back Guarantee<h6> <span class="tick"></span></li>
-      <li><h6>100% Custom Designs (No Template)<h6> <span class="tick"></span></li>
-      <li><h6>24/7 After Sales Support (Email, Chat, Call, SMS, Whatsapp)<h6> <span class="tick"></span></li>
+      <li><h6>100% Real Account Manager (No Bots)</h6> <span class="tick"></span></li>
+      <li><h6>100% Approval Assurance</h6> <span class="tick"></span></li>
+      <li><h6>100% Ownership Rights</h6> <span class="tick"></span></li>
+      <li><h6>100% Money Back Guarantee</h6> <span class="tick"></span></li>
+      <li><h6>100% Custom Designs (No Template)</h6> <span class="tick"></span></li>
+      <li><h6>24/7 After Sales Support (Email, Chat, Call, SMS, Whatsapp)</h6> <span class="tick"></span></li>
 
                 
               </ul>

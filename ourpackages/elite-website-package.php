@@ -51,7 +51,7 @@ include($header);
   	<div class="col-lg-4 col-md-4 col-sm-4">
   		<div class="subs-pac bronze ">
           <h3>Elite Website <br/>Package</h3>
-          <h6><span class="old">£1419.98</span> £709.99       <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</span></h6>
+          <h6><span class="old">£2,988.98</span> £1,494.99       <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for companies.</span></h6>
           
         <a href="<?php echo $path;?>order?pack=21" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
@@ -74,7 +74,49 @@ include($header);
             </div>
             <div class="body">
               <ul class="subscription-list">
-                              <li><h6>Upto 15 Unique Pages Website</h6>
+              <li><h6>Upto 15 Unique Pages Website </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Conceptual and Dynamic Website </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Mobile Responsive </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Online Reservation/Appointment Tool (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Online Payment Integration (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Custom Forms </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Lead Capturing Forms (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Striking Hover Effects </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Newsletter Subscription (Optional) </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Newsfeed Integration </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Social Media Integration </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Search Engine Submission </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>5 Stock Photos </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>3 Unique Banner Design </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>1 jQuery Slider Banner </h6>
+                              <span class="tick"></span></li>
+                      <li><h6> Complete W3C Certified HTML </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>48 to 72 hours TAT </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>Complete Deployment </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>100% Satisfaction Guarantee </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>100% Unique Design Guarantee </h6>
+                              <span class="tick"></span></li>
+                      <li><h6>100% Money Back Guarantee * </h6>
+                              <span class="tick"></span></li>
+                              <!-- <li><h6>Upto 15 Unique Pages Website</h6>
                               <span class="tick"></span></li>
                               <li><h6>Conceptual and Dynamic Website</h6>
                               <span class="tick"></span></li>
@@ -121,7 +163,7 @@ include($header);
                               <li><h6>100% Unique Design Guarantee</h6>
                               <span class="tick"></span></li>
                               <li><h6>100% Money Back Guarantee *</h6>
-                              <span class="tick"></span></li>
+                              <span class="tick"></span></li> -->
               </ul>
             </div>
           </div>

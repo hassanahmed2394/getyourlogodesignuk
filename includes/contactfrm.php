@@ -39,15 +39,16 @@
 
 
 
-              <option  value="Special Website Package - £99.00" pack="10">Special Website Package - £99.00</option>
-              <option  value="Starter Website Package - £149.00" pack="11">Starter Website Package - £149.00</option>
-              <option  value="Beginner Website Package - £199.00" pack="12">Beginner Website Package - £199.00</option>
-              <option  value="Startup Website Package - £249.00" pack="13">Startup Website Package - £249.00</option>
-              <option  value="Corporate Website Package - £349.00" pack="14">Corporate Website Package - £349.00</option>
-              <option  value="Ultimate Website Package - £499.00" pack="15">Ultimate Website Package - £499.00</option>
+              <option  value="Basic Website Package - £244.00" pack="10">Basic Website Package - £244.00</option>
+              <option  value="Startup Website Package - £394.00" pack="11">Startup Website Package - £394.00</option>
+              <option  value="Professional Website Package - £844.00" pack="12">Professional Website Package - £844.00</option>
+              <option  value="Elite Website Package - £2988.00" pack="13">Elite Website Package - £2988.00</option>
+              <option  value="Corporate Website Package - £2394.00" pack="14">Corporate Website Package - £2394.00</option>
+              <option  value="Business Website Package - £2999.00" pack="15">Business Website Package - £2999.00</option>
               <option  value="Superior Website Package - £1499.00" pack="16">Superior Website Package - £1499.00</option>
               <option  value="Next Generation Package - £999.00" pack="17">Next Generation Package - £999.00</option>
               <option  value="Infinity Package - £1499.00" pack="18">Infinity Package - £1499.00</option>
+
 
 
 

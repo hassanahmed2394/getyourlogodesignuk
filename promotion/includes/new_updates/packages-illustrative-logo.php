@@ -56,7 +56,7 @@
                             <ul style="margin-bottom: 18px;">
                               <li>3 Logo Concept</li>
                               <li>By 3 Logo Designer</li>
-                              <li>Unlimited Revisions/Redraws</li>
+                              <li><strong>Unlimited Revisions/Redraws</strong></li>
                               <li>Stationery Design (Business Card, Letterhead, Invoice )</li>
                               <li>48 - 72 Hours Turn Around Time</li>
                             </ul>
@@ -105,7 +105,7 @@
                             <ul style="margin-bottom: 18px;">
                              <li>4 Logo Concept</li>
                              <li>By 4 Logo Designer</li>
-                             <li>Unlimited Revisions/Redraws</li>
+                             <li><strong>Unlimited Revisions/Redraws</strong></li>
                              <li>Stationery Design (Business Card, Letterhead, Invoice )</li>
                              <li>Social Media Design (Facebook, Twitter, Youtube, Instagram)</li>
                              <li>48 - 72 Hours Turn Around Time</li>

@@ -51,7 +51,7 @@ include($header);
   	<div class="col-lg-4 col-md-4 col-sm-4">
   		<div class="subs-pac bronze ">
           <h3>Mascot Bronze logo <br/>Package</h3>
-          <h6><span class="old">£480</span> £299.0   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for existing companies</span></h6>
+          <h6><span class="old">£299</span>£199.0   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for existing companies</span></h6>
           
         <a href="<?php echo $path;?>order?pack=56" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
@@ -85,7 +85,7 @@ include($header);
                 </li>
 
                 <li>
-                  <h6>4 Revisions 
+                  <h6>Unlimited Revisions
 </h6>
                   <span class="tick"></span>
                 </li>
@@ -118,6 +118,8 @@ include($header);
 
                  <li class="heading">FEATURES</li>
 
+                 <li><h6>100% Custom Artwork (No Template)</h6>
+  <span class="tick"></span></li>
                 <li>
                   <h6>100% Ownership Rights</h6>
                   <span class="tick"></span>
@@ -129,7 +131,7 @@ include($header);
                 </li>
 
                 <li>
-                  <h6>100% Unique Design Guarantee</h6>
+                  <h6>24/7 Support (Email, Chat, Call, SMS, Whatsapp)</h6>
                   <span class="tick"></span>
                 </li>
 

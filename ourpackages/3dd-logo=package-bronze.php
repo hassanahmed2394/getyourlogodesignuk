@@ -51,7 +51,7 @@ include($header);
   	<div class="col-lg-4 col-md-4 col-sm-4">
   		<div class="subs-pac bronze ">
           <h3>3D Bronzelogo <br/>Package</h3>
-          <h6><span class="old">£380</span> £249.0   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for existing companies</span></h6>
+          <h6><span class="old">£280</span> £149.0   <!-- <b>USD</b> --> <span><b class="monthss"></b>Suitable for potential super-startups and brand revamps for existing companies</span></h6>
           
         <a href="<?php echo $path;?>order?pack=53" class="ordrrrr">Place Your Order</a>
         <div class="actions row">
@@ -85,7 +85,7 @@ include($header);
                 </li>
 
                 <li>
-                  <h6>4 Revisions
+                  <h6>2 Revisions (Additional $49)
 </h6>
                   <span class="tick"></span>
                 </li>

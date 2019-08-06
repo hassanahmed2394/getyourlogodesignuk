@@ -3,13 +3,15 @@
           <div class="package-box text-center">
                          <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
                          <h4 class="category">3D Bronze Logo <br> Package</h4>
-                         <span class="actual-price packgePrice">£249.00</span><span class="sale-price">£399.00</span>
+                         <span class="actual-price packgePrice"> £149 
+</span><span class="sale-price">£249.00.00</span>
                          <div class="scroll">
                             <ul style="margin-bottom: 18px;">
-                               <li>2 Logo Concept</li>
-                              <li>By 2 Logo Designer</li>
-                              <li>4 Revisions </li>
-                              <li>48 - 72 Hours Turn Around Time</li>
+                            <li>2 Logo Concept</li>
+	<li>By 2 Logo Designer</li>
+	<li>2 Revisions (Additional £49)</li>
+	<li>48 - 72 Hours Turn Around Time</li>
+
                             </ul>
                             <ul class="mt-0 border-new" style="border-top: 2px solid #24d193;margin: 20px 0px;">
                                  <li style="color: #f93221;font-weight: bold;margin-top: 10px;">Free</li>
@@ -51,14 +53,14 @@
           <div class="package-box text-center">
                          <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
                          <h4 class="category">3D Silver Logo <br> Package</h4>
-                         <span class="actual-price packgePrice">£399.00</span><span class="sale-price">£580.00</span>
+                         <span class="actual-price packgePrice">£249.00</span><span class="sale-price">£399.00</span>
                          <div class="scroll">
                             <ul style="margin-bottom: 18px;">
                               <li>3 Logo Concept</li>
-      <li>By 3 Logo Designer</li>
-      <li>Unlimited Revisions/Redraws</li>
-      <li>Stationery Design (Business Card, Letterhead, Invoice )</li>
-      <li>48 - 72 Hours Turn Around Time</li>
+	<li>By 3 Logo Designer</li>
+	<li><strong>Unlimited Revisions/Redraws</strong></li>
+	<li>Stationery Design <strong>(Business Card, Letterhead, Invoice )</strong></li>
+	<li>48 - 72 Hours Turn Around Time</li>
                             </ul>
                             <ul class="mt-0 border-new" style="border-top: 2px solid #24d193;margin: 20px 0px;">
                                  <li style="color: #f93221;font-weight: bold;margin-top: 10px;">Free</li>
@@ -100,15 +102,15 @@
           <div class="package-box text-center seller">
                          <!-- <div class="productSku" style="display: none;">LOGO_OLIVE_PLATINUM</div> -->
                          <h4 class="category">3D Gold Logo <br> Package</h4>
-                         <span class="actual-price packgePrice"> £599.00 </span><span class="sale-price">£780.00</span>
+                         <span class="actual-price packgePrice"> £499.00 </span><span class="sale-price">£599.00</span>
                          <div class="scroll">
                             <ul style="margin-bottom: 18px;">
-                              <li>4 Logo Concept</li>
-      <li>By 4 Logo Designer</li>
-      <li>Unlimited Revisions/Redraws</li>
-      <li>Stationery Design (Business Card, Letterhead, Invoice )></li>
-      <li>Social Media Design (Facebook, Twitter, Youtube, Instagram)</li>
-      <li><strong>48 - 72 Hours Turn Around Time</strong></li>
+                            <li>4 Logo Concept</li>
+	<li>By 4 Logo Designer</li>
+	<li><strong>Unlimited Revisions/Redraws</strong></li>
+	<li>Stationery Design <strong>(Business Card, Letterhead, Invoice )</strong></li>
+	<li>Social Media Design (Facebook, Twitter, Youtube, Instagram)</li>
+	<li>48 - 72 Hours Turn Around Time</li>
                             </ul>
                             <ul class="mt-0 border-new" style="border-top: 2px solid #24d193;margin: 20px 0px;">
                                  <li style="color: #f93221;font-weight: bold;margin-top: 10px;">Free</li>
