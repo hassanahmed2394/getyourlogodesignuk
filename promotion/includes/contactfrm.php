@@ -20,6 +20,7 @@
          <div class="forarrowselect">
             <label class="field-txt">Select Package <span>*</span></label>
 
+       
             <select name="Packages" id="packages" class="valid safari_only" aria-invalid="false" >
               <option  value="" pack="0">Select Package</option>
              
@@ -39,12 +40,12 @@
 
 
 
-              <option  value="Special Website Package - £99.00" pack="10">Special Website Package - £99.00</option>
-              <option  value="Starter Website Package - £149.00" pack="11">Starter Website Package - £149.00</option>
-              <option  value="Beginner Website Package - £199.00" pack="12">Beginner Website Package - £199.00</option>
-              <option  value="Startup Website Package - £249.00" pack="13">Startup Website Package - £249.00</option>
-              <option  value="Corporate Website Package - £349.00" pack="14">Corporate Website Package - £349.00</option>
-              <option  value="Ultimate Website Package - £499.00" pack="15">Ultimate Website Package - £499.00</option>
+              <option  value="Basic Website Package - £244.00" pack="10">Basic Website Package - £244.00</option>
+              <option  value="Startup Website Package - £394.00" pack="11">Startup Website Package - £394.00</option>
+              <option  value="Professional Website Package - £844.00" pack="12">Professional Website Package - £844.00</option>
+              <option  value="Elite Website Package - £2988.00" pack="13">Elite Website Package - £2988.00</option>
+              <option  value="Corporate Website Package - £2394.00" pack="14">Corporate Website Package - £2394.00</option>
+              <option  value="Business Website Package - £2999.00" pack="15">Business Website Package - £2999.00</option>
               <option  value="Superior Website Package - £1499.00" pack="16">Superior Website Package - £1499.00</option>
               <option  value="Next Generation Package - £999.00" pack="17">Next Generation Package - £999.00</option>
               <option  value="Infinity Package - £1499.00" pack="18">Infinity Package - £1499.00</option>
@@ -99,18 +100,18 @@
 
 
 
-              <option  value="Bronze Illustrative Logo Package - £199.00" pack="50">Bronze Illustrative Logo Package - £199.00</option>
-              <option  value="Silver Illustrative Logo Package - £299.00" pack="51">Silver Illustrative Logo Package - £299.00</option>
-              <option  value="Gold Illustrative Logo Package - £399.00" pack="52">Gold Illustrative Logo Package - £399.00</option>
+              <option  value="Bronze Illustrative Logo Package - £99.00" pack="50">Bronze Illustrative Logo Package - £99.00</option>
+              <option  value="Silver Illustrative Logo Package - £199.00" pack="51">Silver Illustrative Logo Package - £199.00</option>
+              <option  value="Gold Illustrative Logo Package - £299.00" pack="52">Gold Illustrative Logo Package - £299.00</option>
 
-               <option  value="Bronze 3D Logo Package - £249.00" pack="53">Bronze 3D Logo Package - £249.00</option>
-              <option  value="Silver 3D Logo Package - £299.00" pack="54">Silver 3D Logo Package - £399.00</option>
-              <option  value="Gold 3D Logo Package - £599.00" pack="55">Gold 3D Logo Package - £599.00</option>
+               <option  value="Bronze 3D Logo Package - £149.00" pack="53">Bronze 3D Logo Package - £149.00</option>
+              <option  value="Silver 3D Logo Package - £249.00" pack="54">Silver 3D Logo Package - £249.00</option>
+              <option  value="Gold 3D Logo Package - £499.00" pack="55">Gold 3D Logo Package - £499.00</option>
 
 
-              <option  value="Bronze Mascot Logo Package - £299.00" pack="56">Bronze Mascot Logo Package - £299.00</option>
-              <option  value="Silver Mascot Logo Package - £349.00" pack="57">Silver Mascot Logo Package - £349.00</option>
-              <option  value="Gold Mascot Logo Package - £549.00" pack="58">Gold Mascot Logo Package - £549.00</option>
+              <option  value="Bronze Mascot Logo Package - £199.00" pack="56">Bronze Mascot Logo Package - £199.00</option>
+              <option  value="Silver Mascot Logo Package - £299.00" pack="57">Silver Mascot Logo Package - £299.00</option>
+              <option  value="Gold Mascot Logo Package - £499.00" pack="58">Gold Mascot Logo Package - £499.00</option>
 
 
                <option  value="Bronze Animation Logo Package - £149.00" pack="59">Bronze Animation Logo Package - £149.00</option>
@@ -118,6 +119,9 @@
               <option  value="Bronze Animation Logo Package - £199.00" pack="60">Sliver Animation Logo Package - £199.00</option>
               <option  value="Gold Animation Logo Package - £249.00" pack="61">Gold Animation Logo Package - £249.00</option>
               <option  value="Platinum Animation Logo Package - £349.00" pack="62">Platinum Animation Logo Package - £349.00</option>
+              <option  value="App Design Bronze - £1499.00" pack="63">App Design Bronze - £1499.00</option>
+              <option  value="App Design Silver - £1499.00" pack="64">App Design Silver - £2000.00</option>
+              <option  value="App Design Gold - £1499.00" pack="65">App Design Gold - £2999.00</option>
               
               
             </select>
