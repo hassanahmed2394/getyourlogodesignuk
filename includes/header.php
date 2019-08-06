@@ -97,7 +97,7 @@
               
               <li class="<?php if ($urhere=="pricing") {echo "active"; }?>"><a href="<?php echo $path;?>packages">Pricing & Packages</a></li>
               <!-- <li class="<?php if ($urhere=="combopackages") {echo "active"; }?>"><a href="<?php echo $path;?>combo-packages">Combo Packages</a></li> -->
-              
+               <li class="<?php if ($urhere=="reviews") {echo "active"; }?>"><a href="<?php echo $path;?>reviews">Reviews</a></li>
               <li class="<?php if ($urhere=="contact") {echo "active"; }?>"><a href="<?php echo $path;?>contact">Contact</a></li>
               
               

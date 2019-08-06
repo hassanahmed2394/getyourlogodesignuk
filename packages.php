@@ -80,7 +80,7 @@ include_once($header);
           
 
 
-          <div id="logod" class="tab-pane active">
+          <div id="logod" class="tab-pane active no-border">
             <?php
             $packages = $_SERVER['HTTP_HOST']; 
             $packages = $srcurl."packages-logo.php"; 
@@ -88,28 +88,28 @@ include_once($header);
             ?>
           </div>
 
-          <div id="Illustrative" class="tab-pane ">
+          <div id="Illustrative" class="tab-pane no-border">
             <?php
             $packages = $_SERVER['HTTP_HOST']; 
             $packages = $srcurl."packages-illustrative-logo.php"; 
             include($packages); 
             ?>
           </div>
-          <div id="3D" class="tab-pane ">
+          <div id="3D" class="tab-pane no-border">
             <?php
             $packages = $_SERVER['HTTP_HOST']; 
             $packages = $srcurl."packages-3d-logo.php"; 
             include($packages); 
             ?>
           </div>
-           <div id="mascot" class="tab-pane ">
+           <div id="mascot" class="tab-pane no-border">
             <?php
             $packages = $_SERVER['HTTP_HOST']; 
             $packages = $srcurl."packages-mascot-logo.php"; 
             include($packages); 
             ?>
           </div>
-           <div id="animation-logo" class="tab-pane ">
+           <div id="animation-logo" class="tab-pane no-border">
             <?php
             $packages = $_SERVER['HTTP_HOST']; 
             $packages = $srcurl."packages-animation-logo.php"; 

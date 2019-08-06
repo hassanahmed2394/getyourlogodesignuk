@@ -213,7 +213,7 @@ font-size: 13px; color:var(--secondary-color); content: "\e93a"; font-family: 'i
 
 .main-menu {width: 100%;display: inline-block;float: right;margin: 2px 0 0;}
 .main-menu > ul {margin: 0px;}
-.main-menu .forpgactive li {padding: 0px 21px !important;}
+.main-menu .forpgactive li {padding: 0px 27px !important;}
 .main-menu > ul > li {padding: 0px 35px;float: left;position: relative;border-right: 1px solid #ecebeb;}
 .main-menu > ul > li:last-child {padding-right: 0px;/* margin-top: -14px; */border-right: 0px;}
 .main-menu > ul > li:before {position: absolute;width: 1px;height: 12px;background: #71787e;left: 0px;top: 30%;}
@@ -1245,7 +1245,6 @@ h2, .h2{font-size: var(--font-size-h2);}
 .home-slider .slick-dots { width:auto; text-align:center; }
 }
 @media only screen and (max-width: 1024px) {
-    
 .home-banner { background-position: center left; }
 .testimonials-slider-main .slick-prev { left:0px; }
 .testimonials-slider-main .slick-next { right:0px; }
@@ -4450,7 +4449,7 @@ section.call-actions h3 span {    font-size: 16px;}
     .helpsec .imgplace figure img{width: 100%;}
     .mobile-nav-btn{z-index: 999;    top: 12px;}
     .mobile-nav-btn span:before, .mobile-nav-btn span:after,.mobile-nav-btn span{ background-color: #6c7780;}
-    .slider-wrapper {margin-top: calc(100% - 85%) !important;}
+    .slider-wrapper {margin-top: 62px;}
     .header-main {position: fixed;    background: #fff;}
     .home-banner-content h1{font-size: 36px;    line-height: 1.2;}
     .home-banner-content .subtitle{font-size: 20px}
@@ -4526,7 +4525,7 @@ section.call-actions h3 span {    font-size: 16px;}
     .smallboxes .smallbox figure img{width: auto;}
     .smallboxes .smallbox figure{text-align: left;}
     .smallboxes .smallbox h2{text-align: center;padding-top: 0;}
-    .smallboxes .smallbox .price-btnwrap{text-align:center !important;}
+    .smallboxes .smallbox .price-btnwrap{text-align:left;}
     .smallbox.mright{margin-right: 0px;}
     .pricing-sec h2{padding-top: 0px;text-align: left;}
     .pricing-sec p{text-align: left;}
@@ -4641,8 +4640,7 @@ section.call-actions h3 span {    font-size: 16px;}
     max-width: 267px;
     max-height: 267px;
     border-radius: 3px;
-    /* width: 100%; */   
-    margin: 0 auto !important;
+    /* width: 100%; */
     }
 
 .border-box-effect figure{margin-bottom: 0px;}
@@ -5332,19 +5330,12 @@ background: -webkit-linear-gradient(left, #0091e7 0%,#1464af 100%); /* Chrome10-
 .floatbutton .clickbutton .crossplus.rotate{transform: rotate(45deg);-webkit-transition: 0.4s;-moz-transition: 0.4s;-o-transition: 0.4s;transition: 0.4s;}
 
 
-.topformcontainer {
-    width: 360px;
-    position: absolute;
-    right: 155px;
-    top: 19px;
-    z-index: 9;
-}
 
-.hompg .topformcontainer {
+.topformcontainer{
     width: 360px;
     position: absolute;
     right: 155px;
-    top: 0px !important;
+    top: 15px;
     z-index: 9;
 }
 .topformcontainer .topformwrap{
@@ -5882,10 +5873,10 @@ background: -webkit-linear-gradient(left, #0091e7 0%,#1464af 100%); /* Chrome10-
     z-index: 9;
 }
 .slick-next {
-    right: calc(100% - 98% );
+    right: -32px;
 }
 .slick-prev {
-    left: calc(100% - 98% );
+    left: -32px;
 }
 .listsss ul li {
     width: 100%;
@@ -6168,13 +6159,13 @@ and (orientation : landscape) {
 
 @media only screen and (max-width: 480px) and (min-width: 0px)   {
 .pricing-sec .slick-next {
-        right: 130px;
-        top: calc(100% - -10%);
-    }
-    .pricing-sec .slick-prev {
-        left: 130px;
-        top: calc(100% - -10%);
-    }
+    right: 130px;
+    top: 370px;
+}
+.pricing-sec .slick-prev {
+    left: 130px;
+    top: 370px;
+}
 .smallboxes .smallbox {
     margin: 12px 0px;
 }
@@ -6883,8 +6874,7 @@ input[type=email]:focus, input[type=text]:focus, textarea {
     color: #1169b5;
     font-size: 16px !important;
     text-transform: uppercase;
-    margin-top: -26px; color: red;
-    font-weight: 700;
+    margin-top: -26px;
     /* background: #1169b5; */
     /* border-radius: 0px 0px 5px 5px; */
     /* padding-top: 10px; */
@@ -6910,20 +6900,5 @@ input[type=email]:focus, input[type=text]:focus, textarea {
 	transform: translateX(-50%) translateY(-50%);
 	background-size: cover;
 }
-p.populartag {
-   
-}.color-f9{background:#f9f9f9;}section.sec-padding.light-white{display:none;}.reviewPage .mypackages .information {
-    width: 731px;
-}.left.information h5 {
-    text-align: center;
-}
-.left.information h5 {
-    text-align: center;
-    padding: 10px 0;
-    font-size: 20px;
-    color: red;
-}
-
-.inner-tab .no-border {
-    border: none !important;
-}
+.color-f9{background:#f9f9f9;}
+section.sec-padding.light-white{display:none;}
