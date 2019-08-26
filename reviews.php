@@ -203,7 +203,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/amrus-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>Having an attractive Website Design for our new business was a hurdle for us, we kept our faith in designdok and they presented us with such creative and impressive design options, it was an amazing experience for us working with them. I have recommended other friends also towards designdok</p>
+        <p>Having an attractive Website Design for our new business was a hurdle for us, we kept our faith in getyourlogodesign and they presented us with such creative and impressive design options, it was an amazing experience for us working with them. I have recommended other friends also towards getyourlogodesign</p>
         <i>Nichole Wade</i>
         </li>
                 <li>
@@ -211,7 +211,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/easymade-prints-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>designdok.com actually does beyond what they say; to satisfy their clients. The whole process was greatly executed; even in the end we got a perfect logo for our business. designdok.com made the whole process exciting and enjoyable. WELL DONE!!! getyourlogodesign are simply creative at logo designs.</p>
+        <p>getyourlogodesign.com actually does beyond what they say; to satisfy their clients. The whole process was greatly executed; even in the end we got a perfect logo for our business. getyourlogodesign.com made the whole process exciting and enjoyable. WELL DONE!!! getyourlogodesign are simply creative at logo designs.</p>
         <i>Mike Bennett</i>
         </li>
                 <li>
@@ -219,7 +219,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/dental-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>I found all personnel working on my project very enthusiastic and dedicated. It is not quite easy when you want your logo to depict multiple attributes of your business, but designdok managed it well. With its finest logo concepts we got enough designs to choose from right on the first drafts.</p>
+        <p>I found all personnel working on my project very enthusiastic and dedicated. It is not quite easy when you want your logo to depict multiple attributes of your business, but getyourlogodesign managed it well. With its finest logo concepts we got enough designs to choose from right on the first drafts.</p>
         <i>Hector Walters</i>
         </li>
                 <li>
@@ -227,7 +227,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/mix-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p> It has been a wonderful experience working with designdok team and I must appreciate their professionalism and their excellent work. The website is amazing and we are very pleased with their work. getyourlogodesign your services for my website designs are  Highly appreciated!! Keep up the good work</p>
+        <p> It has been a wonderful experience working with getyourlogodesign team and I must appreciate their professionalism and their excellent work. The website is amazing and we are very pleased with their work. getyourlogodesign your services for my website designs are  Highly appreciated!! Keep up the good work</p>
         <i>Alyssa Reid</i>
         </li>
                 <li>
@@ -243,7 +243,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/jackies-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>Design should be the one, which explains the purpose in one sight and this is what we expected for. designdok work is worth appreciating, really amazing work is done by you guys! This logo design gives a unique identity to our business also made it possible for us to attract more customers.</p>
+        <p>Design should be the one, which explains the purpose in one sight and this is what we expected for. getyourlogodesign work is worth appreciating, really amazing work is done by you guys! This logo design gives a unique identity to our business also made it possible for us to attract more customers.</p>
         <i>Angelina Burns</i>
         </li>
                 <li>
@@ -251,7 +251,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/crows-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>designdok is the perfect place if you are looking for edgy & powerful logos. Our logo has the perfect power and the sleekness that we wanted. Plus we got to communicate our ideas directly to the senior designers ourselves. getyourlogodesign have been very fast in the delivery of my final product.</p>
+        <p>getyourlogodesign is the perfect place if you are looking for edgy & powerful logos. Our logo has the perfect power and the sleekness that we wanted. Plus we got to communicate our ideas directly to the senior designers ourselves. getyourlogodesign have been very fast in the delivery of my final product.</p>
         <i>Jo Maldonado</i>
         </li>
                 <li>
@@ -259,7 +259,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/coastal-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>designdok is a great company; they have served me with great service. We got a quality website within no time at all</p>
+        <p>getyourlogodesign is a great company; they have served me with great service. We got a quality website within no time at all</p>
         <i>Martin Brock</i>
         </li>
                 <li>
@@ -275,7 +275,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/preferred-BR-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>All thanks to designdok I got my print collateral right on time for the expo. At first I was not so sure if they would be able to meet the deadline but as I soon as I saw the initial print designs I knew that this would finish without any revision and so It did. I got my print items 4 days before the trade show.</p>
+        <p>All thanks to getyourlogodesign I got my print collateral right on time for the expo. At first I was not so sure if they would be able to meet the deadline but as I soon as I saw the initial print designs I knew that this would finish without any revision and so It did. I got my print items 4 days before the trade show.</p>
         <i>Casey Olson</i>
         </li>
                 <li>
@@ -283,7 +283,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/overprice-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>With such excellence the designers has turned our vision into reality. It became a difficult task, for us getyourlogodesign has done an outstanding job. And just because of the terrific reviews that I got from my friends on my logo I placed my website order as well with designdok.</p>
+        <p>With such excellence the designers has turned our vision into reality. It became a difficult task, for us getyourlogodesign has done an outstanding job. And just because of the terrific reviews that I got from my friends on my logo I placed my website order as well with getyourlogodesign.</p>
         <i>Shawna Byrd</i>
         </li>
                 <li>
@@ -291,7 +291,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/media-signage-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>When you pick designdok, nothing goes wrong! I needed a video that could be a celebration of feminism and motherhood. It was for my final thesis and opting for designdok to get the job done was a definite choice & my seniors get their videos done too.</p>
+        <p>When you pick getyourlogodesign, nothing goes wrong! I needed a video that could be a celebration of feminism and motherhood. It was for my final thesis and opting for getyourlogodesign to get the job done was a definite choice & my seniors get their videos done too.</p>
         <i>Rhonda Colon</i>
         </li>
                 <li>
@@ -307,7 +307,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/doos-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>No one does a better animation than designdok when it comes to whiteboard style of animation. I am teacher and wanted to give my students an environmental presentation on the importance of water and getyourlogodesign did a brilliant job with the cartoon animation and presentation</p>
+        <p>No one does a better animation than getyourlogodesign when it comes to whiteboard style of animation. I am teacher and wanted to give my students an environmental presentation on the importance of water and getyourlogodesign did a brilliant job with the cartoon animation and presentation</p>
         <i>Rachael Cross</i>
         </li>
                 <li>
@@ -331,7 +331,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/EA-ST-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>It is hard to find someone with so much professionalism in such a competitive industry. They have been so supportive of what I asked them to do and have actually implemented on those ideas. I'm so happy with their work and satisfied with the print designs they have provided me with. Thanks to designdok</p>
+        <p>It is hard to find someone with so much professionalism in such a competitive industry. They have been so supportive of what I asked them to do and have actually implemented on those ideas. I'm so happy with their work and satisfied with the print designs they have provided me with. Thanks to getyourlogodesign</p>
         <i>Ivan Schultz</i>
         </li>
                 <li>
@@ -339,7 +339,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/aspers-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>We loved the idea of how different color shades were used. At first we wanted to move in a different direction with our logo design ideas, but as soon as we got to see the first round of samples, it was then decided to stick with what designdok did best.</p>
+        <p>We loved the idea of how different color shades were used. At first we wanted to move in a different direction with our logo design ideas, but as soon as we got to see the first round of samples, it was then decided to stick with what getyourlogodesign did best.</p>
         <i>Ed White</i>
         </li>
                 <li>
@@ -347,7 +347,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/life-song-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>Expressing the purpose of the business clearly, is what designdok has done for us beautifully and efficiently. designdok is one place which we found for designing our company’s logo and with such professional team designdok has done the job creatively. Even the logo design suits perfectly with the purpose of our company.</p>
+        <p>Expressing the purpose of the business clearly, is what getyourlogodesign has done for us beautifully and efficiently. getyourlogodesign is one place which we found for designing our company’s logo and with such professional team getyourlogodesign has done the job creatively. Even the logo design suits perfectly with the purpose of our company.</p>
         <i>Andre James</i>
         </li>
                 <li>
@@ -355,7 +355,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/shazingle-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>getyourlogodesign is the way to go! If you are looking for a kick ass promo video for your brand I honestly recommend all of you to go with designdok. The prices are affordable the results are simply outstanding and most importantly the process is clear</p>
+        <p>getyourlogodesign is the way to go! If you are looking for a kick ass promo video for your brand I honestly recommend all of you to go with getyourlogodesign. The prices are affordable the results are simply outstanding and most importantly the process is clear</p>
         <i>Ray Moran</i>
         </li>
                 <li>
@@ -371,7 +371,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/stingball-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>Professionalism at its peak! designdok treated us as royalty. They were very polite and helpful. I knew nothing about the functionalities of a website, but they guided me a lot and provided me what suits the best to my business.</p>
+        <p>Professionalism at its peak! getyourlogodesign treated us as royalty. They were very polite and helpful. I knew nothing about the functionalities of a website, but they guided me a lot and provided me what suits the best to my business.</p>
         <i>Emlyn Mousley</i>
         </li>
                 <li>
@@ -395,7 +395,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/prestige-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>This has been the most amazing logo designing experience I have ever had. designdok was recommended to be by a friend and I thank him for doing that. We started with a just a rough sketch and what has become now is simply a  superb logo designs  that delivers my brand the right edge.</p>
+        <p>This has been the most amazing logo designing experience I have ever had. getyourlogodesign was recommended to be by a friend and I thank him for doing that. We started with a just a rough sketch and what has become now is simply a  superb logo designs  that delivers my brand the right edge.</p>
         <i>Ross Greene</i>
         </li>
                 <li>
@@ -411,7 +411,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/painted-lollipots-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>Giving identity to a business is not an easy task, designdok.com proved to be the biggest designing company in the industry. Good Job!!! I could have never imagined a more colorful and creative logo than the one getyourlogodesign have done for me  Thank you for the wonderful work.</p>
+        <p>Giving identity to a business is not an easy task, getyourlogodesign.com proved to be the biggest designing company in the industry. Good Job!!! I could have never imagined a more colorful and creative logo than the one getyourlogodesign have done for me  Thank you for the wonderful work.</p>
         <i>Arturo Jackson</i>
         </li>
                 <li>
@@ -427,7 +427,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/trinity-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>Great web designs, great service. designdok not just created a wonderful website for, they also gave me complimentary services. Their services were as responsive as their designs.You rock guys! </p>
+        <p>Great web designs, great service. getyourlogodesign not just created a wonderful website for, they also gave me complimentary services. Their services were as responsive as their designs.You rock guys! </p>
         <i>Scott Barnard</i>
         </li>
                 <li>
@@ -443,7 +443,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/compas-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>designdok.com assigned an efficient team of developers that made my website an absolute composition of interactivity. All I have to do now are just a few tweaks now and then using the custom CMS created by designdok to match my needs. I can upload videos and a lot more with cms on my own</p>
+        <p>getyourlogodesign.com assigned an efficient team of developers that made my website an absolute composition of interactivity. All I have to do now are just a few tweaks now and then using the custom CMS created by getyourlogodesign to match my needs. I can upload videos and a lot more with cms on my own</p>
         <i>Lewis Vargas</i>
         </li>
                 <li>
@@ -451,7 +451,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/sweetswing-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>You guys did a great job. We are getting numerous compliments on our web design. The site completely amazed my previous customers. designdok is one of those places where you can get quality in affordable rates. Best Of luck designdok.</p>
+        <p>You guys did a great job. We are getting numerous compliments on our web design. The site completely amazed my previous customers. getyourlogodesign is one of those places where you can get quality in affordable rates. Best Of luck getyourlogodesign.</p>
         <i>Carlos Ochoa</i>
         </li>
                 <li>
@@ -459,7 +459,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/arch-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>My friend referred designdok to me and I thought of giving it a try. This was my first time that I purchased a design service online, before this I got a logo done through a local graphic designer and had to compromise on his terms., But designdok managed to do an awesome job.</p>
+        <p>My friend referred getyourlogodesign to me and I thought of giving it a try. This was my first time that I purchased a design service online, before this I got a logo done through a local graphic designer and had to compromise on his terms., But getyourlogodesign managed to do an awesome job.</p>
         <i>Mark Hammond</i>
         </li>
                 <li>
@@ -483,7 +483,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/allied-apparel-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>This was my second logo design with designdok and like before they did a fine job. My account manager was really patient throughout the design process and followed my directions wholeheartedly. I found the perfect options to decide for my logo & tried out many color variations on my selected samples.</p>
+        <p>This was my second logo design with getyourlogodesign and like before they did a fine job. My account manager was really patient throughout the design process and followed my directions wholeheartedly. I found the perfect options to decide for my logo & tried out many color variations on my selected samples.</p>
         <i>Clinton Morrison</i>
         </li>
                 <li>
@@ -491,7 +491,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/blink-w.png" alt="" />
         
         <img src="assets/images/stars1.png" alt="" />
-        <p>The initial samples came in no time at all. I got a very reasonable discounted price all thanks to my account manager. I will always regard designdok as economical, fast & consistent. I always wanted to add blue  and My logo has the perfect blue tone all thanks to brandedlogo designs.</p>
+        <p>The initial samples came in no time at all. I got a very reasonable discounted price all thanks to my account manager. I will always regard getyourlogodesign as economical, fast & consistent. I always wanted to add blue  and My logo has the perfect blue tone all thanks to brandedlogo designs.</p>
         <i>Brian Gibbs</i>
         </li>
                 <li>
@@ -499,7 +499,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/embrace-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p> I have always thought that getting a website created for a company could be one heck of a job, considering the back and forth required to properly convey the Brand Image. Never knew that it could be as easy as ordering a product on eBay :) A Huge Thanks to designdok! You guys have done an excellent job</p>
+        <p> I have always thought that getting a website created for a company could be one heck of a job, considering the back and forth required to properly convey the Brand Image. Never knew that it could be as easy as ordering a product on eBay :) A Huge Thanks to getyourlogodesign! You guys have done an excellent job</p>
         <i>Cecil Morris</i>
         </li>
                 <li>
@@ -507,7 +507,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/makeAdeal-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>If I say the team is very professional it won’t be a lie, designdok work is totally up to the mark and I would consider working with them again in the future as well. The work of art that I have received from getyourlogodesign is noteworthy.</p>
+        <p>If I say the team is very professional it won’t be a lie, getyourlogodesign work is totally up to the mark and I would consider working with them again in the future as well. The work of art that I have received from getyourlogodesign is noteworthy.</p>
         <i>Ebony Cooper</i>
         </li>
                 <li>
@@ -523,7 +523,7 @@ What We Create And Show Their Utmost Gratitude
         <img src="assets/images/cynicus-w.png" alt="" />
         
         <img src="assets/images/stars4.png" alt="" />
-        <p>I was searching online and came into contact with designdok; though it was my first experience but it turned out amazing. They have given me a new identity through this unique website. I m so happy with their work and satisfied with the website design they have provided me on such a discounted price.   </p>
+        <p>I was searching online and came into contact with getyourlogodesign; though it was my first experience but it turned out amazing. They have given me a new identity through this unique website. I m so happy with their work and satisfied with the website design they have provided me on such a discounted price.   </p>
         <i>Steve Love</i>
         </li>
                 <li>

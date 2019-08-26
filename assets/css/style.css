@@ -5344,7 +5344,7 @@ background: -webkit-linear-gradient(left, #0091e7 0%,#1464af 100%); /* Chrome10-
     width: 360px;
     position: absolute;
     right: 155px;
-    top: 0px !important;
+    /* top: 0px !important; */
     z-index: 9;
 }
 .topformcontainer .topformwrap{
@@ -5702,7 +5702,7 @@ background: -webkit-linear-gradient(left, #0091e7 0%,#1464af 100%); /* Chrome10-
     height: 40px;
 }
 
-.gtquote .slider-wrapper{margin-top: 0px;}
+.gtquote .slider-wrapper{margin-top: 0px !important;}
 .gtquote .logo img{
     width: 200px;
 }
@@ -5712,7 +5712,7 @@ background: -webkit-linear-gradient(left, #0091e7 0%,#1464af 100%); /* Chrome10-
 }
 .privacy-text-wrapper p strong{font-size: 26px;    color: var(--theme-dark);}
 
-.analyzepg .slider-wrapper{margin-top: 0}
+.analyzepg .slider-wrapper{margin-top: 0 !important;}
 
 
 

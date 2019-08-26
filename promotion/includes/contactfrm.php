@@ -19,8 +19,6 @@
      <div class="col-md-12">
          <div class="forarrowselect">
             <label class="field-txt">Select Package <span>*</span></label>
-
-       
             <select name="Packages" id="packages" class="valid safari_only" aria-invalid="false" >
               <option  value="" pack="0">Select Package</option>
              
